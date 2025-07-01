@@ -1,4 +1,4 @@
-# IIC3697-Proyecto: Traducción de lenguas precolombinas por medio de traducciones intermedias
+# IIC3697-Proyecto: Traducción de lenguas mayas por medio de traducciones intermedias
 
 IIC3697 Aprendizaje Profundo - Proyecto Final
 ---
