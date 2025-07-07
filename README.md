@@ -3,7 +3,7 @@
 IIC3697 Aprendizaje Profundo - Proyecto Final
 ---
 
-Alejandro Plaza, Pablo Poblete, Vittorio Salvatore, Gabriel Venegas
+Alejandro Plaza, Pablo Poblete, Vittorio Salvatore, Gabriel Venegas, Felipe Fuentes
 <br>
 Grupo 8
 
